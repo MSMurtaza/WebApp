@@ -1,2 +1,2 @@
 # WebApp
-This is temporary project for just git practicing purposes
+This branch is about dummy project for just git practicing purposes
